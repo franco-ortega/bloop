@@ -1,0 +1,6 @@
+.LayoutOuter {
+  background-color: lightgreen;
+  border: 1rem solid coral;
+  height: 100vh;
+  overflow: auto;
+}
